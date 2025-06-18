@@ -1,0 +1,73 @@
+Prompt:
+
+Create a modern, responsive personal portfolio website for a freelance Web Developer & AI Automation Specialist. The site should have a clean, tech-focused design with a professional, friendly vibe using a bold but minimal color scheme (like blue/black/white). The target audience is international clients and startups looking for custom websites, GPT-powered tools, or landing pages.
+
+The website should include the following pages and sections:
+
+1. Home Page
+Hero section with my name: Khushi Kumari
+
+My title: Web & AI Developer
+
+Tagline: “I build fast, functional websites and automate tasks using AI.”
+
+Call-to-action (buttons): “See My Work” and “Hire Me”
+
+Social media icons (GitHub, LinkedIn, Email)
+
+2. About Me
+Short story about how I became a developer
+
+Skills: HTML, CSS, JavaScript, React, Node.js, Tailwind CSS, OpenAI APIs, Stripe
+
+Tools I use: VSCode, GitHub, ChatGPT, Midjourney, Notion
+
+My goal: To help businesses grow using modern tech + AI
+
+3. Services Page
+Clear service offerings with pricing tables or cards. Example services:
+
+Custom Portfolio Website – $100
+
+Landing Page with Stripe Payment – $120
+
+ChatGPT FAQ Bot for Business – $80
+
+Task Automation Tool – $90
+
+Website Bug Fixes / Optimization – $40
+
+Include CTA: “Book Now” or “Request a Quote”
+
+4. Projects Page
+Grid or list of 2–3 sample projects
+
+Each with title, short description, tech stack used
+
+Button for "Live Demo" and "Source Code"
+
+5. Contact Page
+Contact form (Name, Email, Message)
+
+Email: yourname@gmail.com
+
+Optional: Link to Calendly or WhatsApp
+
+6. (Optional) Testimonials
+Add 2–3 testimonials (use placeholder or sample reviews for now)
+
+Design Guidelines
+Mobile-first design
+
+Smooth animations or transitions (hover effects, fade-ins)
+
+Modern fonts like Poppins, Inter, or Montserrat
+
+Use Tailwind CSS (if using code) or a sleek UI kit
+
+SEO & Meta
+Meta title: “Khushi – Web & AI Developer for Hire”
+
+Meta description: “Freelance web and automation developer helping you grow with tech and AI.”
+
+Social preview image with name + title
