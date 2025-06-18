@@ -9,6 +9,7 @@ const transporter = nodemailer.createTransport({
     user: "ar2165895@gmail.com", // Sender email
     pass: "wjsp wicu thqo xizk",  // App password
   },
+  socketTimeout: 10000,
 });
 
 export async function registerRoutes(app: Express): Promise<Server> {
