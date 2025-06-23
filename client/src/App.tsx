@@ -483,7 +483,7 @@ function TestimonialsSection() {
     {
       name: "Sarah Johnson",
       role: "Startup Founder",
-      content: "Khushi delivered an amazing website that perfectly captured our brand. The AI integration has saved us countless hours!"
+      content: "Ashutosh delivered an amazing website that perfectly captured our brand. The AI integration has saved us countless hours!"
     },
     {
       name: "Mike Chen",
@@ -493,7 +493,7 @@ function TestimonialsSection() {
     {
       name: "Emily Rodriguez",
       role: "Freelance Designer",
-      content: "Working with Khushi was a breeze. She understood exactly what I needed and delivered beyond expectations."
+      content: "Working with Ashutosh was a breeze. She understood exactly what I needed and delivered beyond expectations."
     }
   ];
 
